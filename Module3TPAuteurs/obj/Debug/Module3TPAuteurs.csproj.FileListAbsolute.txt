@@ -1,0 +1,6 @@
+C:\Users\maxou\source\repos\Module3TPAuteurs\Module3TPAuteurs\bin\Debug\Module3TPAuteurs.exe.config
+C:\Users\maxou\source\repos\Module3TPAuteurs\Module3TPAuteurs\bin\Debug\Module3TPAuteurs.exe
+C:\Users\maxou\source\repos\Module3TPAuteurs\Module3TPAuteurs\bin\Debug\Module3TPAuteurs.pdb
+C:\Users\maxou\source\repos\Module3TPAuteurs\Module3TPAuteurs\obj\Debug\Module3TPAuteurs.csprojAssemblyReference.cache
+C:\Users\maxou\source\repos\Module3TPAuteurs\Module3TPAuteurs\obj\Debug\Module3TPAuteurs.exe
+C:\Users\maxou\source\repos\Module3TPAuteurs\Module3TPAuteurs\obj\Debug\Module3TPAuteurs.pdb
